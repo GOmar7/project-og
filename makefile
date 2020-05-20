@@ -1,7 +1,7 @@
 README.md: guessinggame.sh
 	echo "# Project: my final  work A Guessing game" > README.md
 	echo "<br>" >> README.md
-	echo <br> >> README.md
+	echo "<br>" >> README.md
 	echo "##**Date and time, fecha y hora**"  >> README.md
 	echo "&nbsp" >> README.md
 	date >> README.md
