@@ -8,7 +8,7 @@ README.md: guessinggame.sh
 	date >> README.md
 	echo "<br>" >> README.md
 	echo "<br>" >> README.md
-	echo  "##**- Number of lines of  code** : " >> README.md
+	echo  "##**- Number of lines of  code**" >> README.md
 	echo "<nbsp>" >> README.md
 	wc -l guessinggame.sh >> README.md
 clean: rm README.md
